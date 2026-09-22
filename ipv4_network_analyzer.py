@@ -1,7 +1,7 @@
 def add_validation(i):
     if (len(i)== 4):
         pass
-    else :
+    else:
         print("Invalid address!!")
         return exit()
     return
